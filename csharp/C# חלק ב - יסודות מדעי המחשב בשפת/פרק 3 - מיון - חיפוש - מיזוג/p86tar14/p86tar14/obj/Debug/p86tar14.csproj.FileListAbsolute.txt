@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p86tar14\p86tar14\bin\Debug\p86tar14.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p86tar14\p86tar14\bin\Debug\p86tar14.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p86tar14\p86tar14\bin\Debug\p86tar14.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p86tar14\p86tar14\obj\Debug\p86tar14.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p86tar14\p86tar14\obj\Debug\p86tar14.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p86tar14\p86tar14\obj\Debug\p86tar14.pdb

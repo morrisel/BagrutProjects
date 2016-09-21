@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p19tar12\p19tar12\bin\Debug\p19tar12.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p19tar12\p19tar12\bin\Debug\p19tar12.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p19tar12\p19tar12\bin\Debug\p19tar12.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p19tar12\p19tar12\obj\Debug\p19tar12.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p19tar12\p19tar12\obj\Debug\p19tar12.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p19tar12\p19tar12\obj\Debug\p19tar12.pdb

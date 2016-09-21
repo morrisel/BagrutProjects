@@ -1,0 +1,10 @@
+C:\CSharp\Bagrut\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\bin\Debug\page174tar06.exe
+C:\CSharp\Bagrut\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\bin\Debug\page174tar06.pdb
+C:\CSharp\Bagrut\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\Bagrut\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\obj\x86\Debug\page174tar06.exe
+C:\CSharp\Bagrut\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\obj\x86\Debug\page174tar06.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\obj\x86\Debug\page174tar06.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\obj\x86\Debug\page174tar06.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\bin\Debug\page174tar06.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\bin\Debug\page174tar06.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\01_ReturnValue\page174tar06\page174tar06\obj\x86\Debug\ResolveAssemblyReference.cache

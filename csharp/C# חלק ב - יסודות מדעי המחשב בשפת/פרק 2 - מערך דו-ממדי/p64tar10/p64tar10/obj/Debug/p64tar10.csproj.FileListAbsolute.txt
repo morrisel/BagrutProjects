@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p64tar10\p64tar10\bin\Debug\p64tar10.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p64tar10\p64tar10\bin\Debug\p64tar10.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p64tar10\p64tar10\bin\Debug\p64tar10.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p64tar10\p64tar10\obj\Debug\p64tar10.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p64tar10\p64tar10\obj\Debug\p64tar10.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p64tar10\p64tar10\obj\Debug\p64tar10.pdb

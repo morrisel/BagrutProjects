@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p110tar09\p110tar09\bin\Debug\p110tar09.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p110tar09\p110tar09\bin\Debug\p110tar09.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p110tar09\p110tar09\bin\Debug\p110tar09.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p110tar09\p110tar09\obj\Debug\p110tar09.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p110tar09\p110tar09\obj\Debug\p110tar09.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p110tar09\p110tar09\obj\Debug\p110tar09.pdb

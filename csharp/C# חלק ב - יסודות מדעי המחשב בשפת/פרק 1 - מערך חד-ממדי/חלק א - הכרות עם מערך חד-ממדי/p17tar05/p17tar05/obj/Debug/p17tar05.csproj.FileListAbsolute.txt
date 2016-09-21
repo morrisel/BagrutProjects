@@ -1,0 +1,5 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar05\p17tar05\bin\Debug\p17tar05.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar05\p17tar05\bin\Debug\p17tar05.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar05\p17tar05\bin\Debug\p17tar05.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar05\p17tar05\obj\Debug\p17tar05.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar05\p17tar05\obj\Debug\p17tar05.pdb

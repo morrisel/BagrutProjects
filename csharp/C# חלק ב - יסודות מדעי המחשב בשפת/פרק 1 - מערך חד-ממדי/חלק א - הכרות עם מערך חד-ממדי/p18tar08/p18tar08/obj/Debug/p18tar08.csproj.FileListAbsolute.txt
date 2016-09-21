@@ -1,0 +1,5 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p18tar08\p18tar08\bin\Debug\p18tar08.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p18tar08\p18tar08\bin\Debug\p18tar08.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p18tar08\p18tar08\bin\Debug\p18tar08.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p18tar08\p18tar08\obj\Debug\p18tar08.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p18tar08\p18tar08\obj\Debug\p18tar08.pdb

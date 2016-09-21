@@ -1,0 +1,7 @@
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter10\Perek 04\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.exe
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter10\Perek 04\PerfectNumber\PerfectNumber\bin\Debug\PerfectNumber.pdb
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter10\Perek 04\PerfectNumber\PerfectNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter10\Perek 04\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.exe
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter10\Perek 04\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter10\Perek 04\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter10\Perek 04\PerfectNumber\PerfectNumber\obj\x86\Debug\PerfectNumber.pdb

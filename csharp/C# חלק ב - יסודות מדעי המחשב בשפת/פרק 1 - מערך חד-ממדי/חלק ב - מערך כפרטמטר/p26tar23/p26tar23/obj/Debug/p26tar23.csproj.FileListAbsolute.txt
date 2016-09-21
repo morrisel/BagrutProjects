@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p26tar23\p26tar23\bin\Debug\p26tar23.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p26tar23\p26tar23\bin\Debug\p26tar23.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p26tar23\p26tar23\bin\Debug\p26tar23.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p26tar23\p26tar23\obj\Debug\p26tar23.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p26tar23\p26tar23\obj\Debug\p26tar23.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p26tar23\p26tar23\obj\Debug\p26tar23.pdb

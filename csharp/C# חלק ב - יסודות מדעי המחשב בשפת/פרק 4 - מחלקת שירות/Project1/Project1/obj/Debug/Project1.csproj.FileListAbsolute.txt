@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\Project1\Project1\bin\Debug\Project1.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\Project1\Project1\bin\Debug\Project1.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\Project1\Project1\bin\Debug\Project1.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\Project1\Project1\obj\Debug\Project1.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\Project1\Project1\obj\Debug\Project1.pdb

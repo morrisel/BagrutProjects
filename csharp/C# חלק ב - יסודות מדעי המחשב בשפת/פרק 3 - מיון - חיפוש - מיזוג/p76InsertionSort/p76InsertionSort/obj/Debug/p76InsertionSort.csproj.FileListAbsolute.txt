@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p76InsertionSort\p76InsertionSort\bin\Debug\p76InsertionSort.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p76InsertionSort\p76InsertionSort\bin\Debug\p76InsertionSort.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p76InsertionSort\p76InsertionSort\bin\Debug\p76InsertionSort.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p76InsertionSort\p76InsertionSort\obj\Debug\p76InsertionSort.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p76InsertionSort\p76InsertionSort\obj\Debug\p76InsertionSort.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p76InsertionSort\p76InsertionSort\obj\Debug\p76InsertionSort.pdb

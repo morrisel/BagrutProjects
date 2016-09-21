@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p43ex14\p43ex14\bin\Debug\p43ex14.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p43ex14\p43ex14\bin\Debug\p43ex14.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p43ex14\p43ex14\bin\Debug\p43ex14.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p43ex14\p43ex14\obj\Debug\p43ex14.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p43ex14\p43ex14\obj\Debug\p43ex14.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p43ex14\p43ex14\obj\Debug\p43ex14.pdb

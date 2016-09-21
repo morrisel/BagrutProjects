@@ -1,0 +1,5 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p61tar03\p61tar03b\bin\Debug\p61tar03b.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p61tar03\p61tar03b\bin\Debug\p61tar03b.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p61tar03\p61tar03b\bin\Debug\p61tar03b.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p61tar03\p61tar03b\obj\Debug\p61tar03b.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 2 - מערך דו-ממדי\p61tar03\p61tar03b\obj\Debug\p61tar03b.pdb

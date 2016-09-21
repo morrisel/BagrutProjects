@@ -1,0 +1,5 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p82BinarySearch\p82BinarySearch\bin\Debug\p82BinarySearch.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p82BinarySearch\p82BinarySearch\bin\Debug\p82BinarySearch.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p82BinarySearch\p82BinarySearch\bin\Debug\p82BinarySearch.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p82BinarySearch\p82BinarySearch\obj\Debug\p82BinarySearch.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p82BinarySearch\p82BinarySearch\obj\Debug\p82BinarySearch.pdb

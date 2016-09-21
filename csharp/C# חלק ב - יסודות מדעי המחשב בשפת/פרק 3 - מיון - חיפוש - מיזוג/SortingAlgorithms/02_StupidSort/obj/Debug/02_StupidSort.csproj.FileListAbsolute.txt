@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\02_StupidSort\bin\Debug\02_StupidSort.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\02_StupidSort\bin\Debug\02_StupidSort.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\02_StupidSort\bin\Debug\02_StupidSort.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\02_StupidSort\obj\Debug\02_StupidSort.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\02_StupidSort\obj\Debug\02_StupidSort.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\02_StupidSort\obj\Debug\02_StupidSort.pdb

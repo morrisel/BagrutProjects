@@ -1,0 +1,5 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p80SearchingInSortedArray\p80SearchingInSortedArray\bin\Debug\p80SearchingInSortedArray.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p80SearchingInSortedArray\p80SearchingInSortedArray\bin\Debug\p80SearchingInSortedArray.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p80SearchingInSortedArray\p80SearchingInSortedArray\bin\Debug\p80SearchingInSortedArray.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p80SearchingInSortedArray\p80SearchingInSortedArray\obj\Debug\p80SearchingInSortedArray.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p80SearchingInSortedArray\p80SearchingInSortedArray\obj\Debug\p80SearchingInSortedArray.pdb

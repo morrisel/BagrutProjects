@@ -1,0 +1,150 @@
+﻿using System;
+
+class CodeFile1
+{
+    static void Main(string[] args)
+    {
+        int goals;
+
+        Console.Write("Enter a number of all goals");
+        goals = int.Parse(Console.ReadLine());
+
+        for (int j = 1; j <= 3; j++)
+        {
+            int player;
+            Console.WriteLine("Three Last Games  {0}!", j);
+
+            Console.Write("Enter a Player number ");
+            player = int.Parse(Console.ReadLine());
+
+            int myGoal;
+            double avg;
+
+            switch (player)
+            {
+                case 1:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 2:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 3:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 4:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 5:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 6:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 7:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 8:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 9:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 10:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 11:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 12:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 13:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 14:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 15:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 16:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 17:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 18:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 19:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+                case 20:
+                    Console.Write("Enter the goal of player {0} ", player);
+                    myGoal = int.Parse(Console.ReadLine());
+                    avg = myGoal / goals;
+                    Console.WriteLine("Player {0}, Average is: {1}", player, avg);
+                    break;
+            }
+        }
+
+        Console.ReadKey();
+    }
+}

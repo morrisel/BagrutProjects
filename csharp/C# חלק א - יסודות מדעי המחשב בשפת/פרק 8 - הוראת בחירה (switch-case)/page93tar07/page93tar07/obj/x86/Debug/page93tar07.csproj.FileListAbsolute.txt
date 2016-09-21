@@ -1,0 +1,5 @@
+C:\CSharp_Programming_Code\FiveDereePoints\yesodot_helek_alef\Chapter08\page93tar07\page93tar07\bin\Debug\page93tar07.exe
+C:\CSharp_Programming_Code\FiveDereePoints\yesodot_helek_alef\Chapter08\page93tar07\page93tar07\bin\Debug\page93tar07.pdb
+C:\CSharp_Programming_Code\FiveDereePoints\yesodot_helek_alef\Chapter08\page93tar07\page93tar07\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp_Programming_Code\FiveDereePoints\yesodot_helek_alef\Chapter08\page93tar07\page93tar07\obj\x86\Debug\page93tar07.exe
+C:\CSharp_Programming_Code\FiveDereePoints\yesodot_helek_alef\Chapter08\page93tar07\page93tar07\obj\x86\Debug\page93tar07.pdb

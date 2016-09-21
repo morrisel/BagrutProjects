@@ -1,0 +1,10 @@
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page147tar26\page147tar26\bin\Debug\page147tar26.exe
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page147tar26\page147tar26\bin\Debug\page147tar26.pdb
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page147tar26\page147tar26\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page147tar26\page147tar26\obj\x86\Debug\page147tar26.exe
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page147tar26\page147tar26\obj\x86\Debug\page147tar26.pdb
+C:\Tutorials\Bagrut\C# חלק א - יסודות מדעי המחשב בשפת\פרק 11 - הוראת חזרה -לולאת תנאי\01 while\page147tar26\page147tar26\obj\x86\Debug\page147tar26.exe
+C:\Tutorials\Bagrut\C# חלק א - יסודות מדעי המחשב בשפת\פרק 11 - הוראת חזרה -לולאת תנאי\01 while\page147tar26\page147tar26\obj\x86\Debug\page147tar26.pdb
+C:\Tutorials\Bagrut\C# חלק א - יסודות מדעי המחשב בשפת\פרק 11 - הוראת חזרה -לולאת תנאי\01 while\page147tar26\page147tar26\bin\Debug\page147tar26.exe
+C:\Tutorials\Bagrut\C# חלק א - יסודות מדעי המחשב בשפת\פרק 11 - הוראת חזרה -לולאת תנאי\01 while\page147tar26\page147tar26\bin\Debug\page147tar26.pdb
+C:\Tutorials\Bagrut\C# חלק א - יסודות מדעי המחשב בשפת\פרק 11 - הוראת חזרה -לולאת תנאי\01 while\page147tar26\page147tar26\obj\x86\Debug\page147tar26.csprojResolveAssemblyReference.cache

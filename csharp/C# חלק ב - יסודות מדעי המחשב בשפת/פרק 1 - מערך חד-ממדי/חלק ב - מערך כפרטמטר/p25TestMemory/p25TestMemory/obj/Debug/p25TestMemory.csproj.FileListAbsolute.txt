@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p25TestMemory\p25TestMemory\bin\Debug\p25TestMemory.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p25TestMemory\p25TestMemory\bin\Debug\p25TestMemory.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p25TestMemory\p25TestMemory\bin\Debug\p25TestMemory.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p25TestMemory\p25TestMemory\obj\Debug\p25TestMemory.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p25TestMemory\p25TestMemory\obj\Debug\p25TestMemory.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p25TestMemory\p25TestMemory\obj\Debug\p25TestMemory.pdb

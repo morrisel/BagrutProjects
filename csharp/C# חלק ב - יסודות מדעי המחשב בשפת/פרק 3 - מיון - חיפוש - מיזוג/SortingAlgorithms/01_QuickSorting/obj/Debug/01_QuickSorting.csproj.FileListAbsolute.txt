@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\01_QuickSorting\bin\Debug\01_QuickSorting.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\01_QuickSorting\bin\Debug\01_QuickSorting.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\01_QuickSorting\bin\Debug\01_QuickSorting.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\01_QuickSorting\obj\Debug\01_QuickSorting.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\01_QuickSorting\obj\Debug\01_QuickSorting.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\01_QuickSorting\obj\Debug\01_QuickSorting.pdb

@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p79SearchInNotSortedArray\p79SearchInNotSortedArray\bin\Debug\p79SearchInNotSortedArray.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p79SearchInNotSortedArray\p79SearchInNotSortedArray\bin\Debug\p79SearchInNotSortedArray.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p79SearchInNotSortedArray\p79SearchInNotSortedArray\bin\Debug\p79SearchInNotSortedArray.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p79SearchInNotSortedArray\p79SearchInNotSortedArray\obj\Debug\p79SearchInNotSortedArray.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p79SearchInNotSortedArray\p79SearchInNotSortedArray\obj\Debug\p79SearchInNotSortedArray.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p79SearchInNotSortedArray\p79SearchInNotSortedArray\obj\Debug\p79SearchInNotSortedArray.pdb

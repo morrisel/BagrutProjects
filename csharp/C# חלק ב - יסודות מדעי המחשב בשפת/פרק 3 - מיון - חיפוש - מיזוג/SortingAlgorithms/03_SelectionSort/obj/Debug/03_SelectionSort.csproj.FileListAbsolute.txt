@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\03_SelectionSort\bin\Debug\03_SelectionSort.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\03_SelectionSort\bin\Debug\03_SelectionSort.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\03_SelectionSort\bin\Debug\03_SelectionSort.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\03_SelectionSort\obj\Debug\03_SelectionSort.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\03_SelectionSort\obj\Debug\03_SelectionSort.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\03_SelectionSort\obj\Debug\03_SelectionSort.pdb

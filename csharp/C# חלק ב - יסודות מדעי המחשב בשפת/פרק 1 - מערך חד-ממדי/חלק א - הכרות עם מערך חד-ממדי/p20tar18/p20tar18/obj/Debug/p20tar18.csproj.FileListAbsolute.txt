@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p20tar18\p20tar18\bin\Debug\p20tar18.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p20tar18\p20tar18\bin\Debug\p20tar18.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p20tar18\p20tar18\bin\Debug\p20tar18.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p20tar18\p20tar18\obj\Debug\p20tar18.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p20tar18\p20tar18\obj\Debug\p20tar18.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p20tar18\p20tar18\obj\Debug\p20tar18.pdb

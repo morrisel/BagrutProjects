@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p12ex02\p12ex02\bin\Debug\p12ex02.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p12ex02\p12ex02\bin\Debug\p12ex02.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p12ex02\p12ex02\bin\Debug\p12ex02.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p12ex02\p12ex02\obj\Debug\p12ex02.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p12ex02\p12ex02\obj\Debug\p12ex02.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p12ex02\p12ex02\obj\Debug\p12ex02.pdb

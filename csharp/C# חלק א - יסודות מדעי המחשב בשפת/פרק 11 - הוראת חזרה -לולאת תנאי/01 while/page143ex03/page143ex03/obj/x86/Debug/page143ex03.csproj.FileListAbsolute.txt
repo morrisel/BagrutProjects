@@ -1,0 +1,5 @@
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page143ex03\page143ex03\bin\Debug\page143ex03.exe
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page143ex03\page143ex03\bin\Debug\page143ex03.pdb
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page143ex03\page143ex03\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page143ex03\page143ex03\obj\x86\Debug\page143ex03.exe
+C:\CSharp\Bagrut\YesodotA\Chapter11\01 while\page143ex03\page143ex03\obj\x86\Debug\page143ex03.pdb

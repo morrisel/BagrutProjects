@@ -1,0 +1,5 @@
+C:\CSharp\Bagrut\YesodotA\Chapter08\page93tar05\page93tar05\bin\Debug\page93tar05.exe
+C:\CSharp\Bagrut\YesodotA\Chapter08\page93tar05\page93tar05\bin\Debug\page93tar05.pdb
+C:\CSharp\Bagrut\YesodotA\Chapter08\page93tar05\page93tar05\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\Bagrut\YesodotA\Chapter08\page93tar05\page93tar05\obj\x86\Debug\page93tar05.exe
+C:\CSharp\Bagrut\YesodotA\Chapter08\page93tar05\page93tar05\obj\x86\Debug\page93tar05.pdb

@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p92tar01\p92tar01\bin\Debug\p92tar01.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p92tar01\p92tar01\bin\Debug\p92tar01.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p92tar01\p92tar01\bin\Debug\p92tar01.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p92tar01\p92tar01\obj\Debug\p92tar01.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p92tar01\p92tar01\obj\Debug\p92tar01.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p92tar01\p92tar01\obj\Debug\p92tar01.pdb

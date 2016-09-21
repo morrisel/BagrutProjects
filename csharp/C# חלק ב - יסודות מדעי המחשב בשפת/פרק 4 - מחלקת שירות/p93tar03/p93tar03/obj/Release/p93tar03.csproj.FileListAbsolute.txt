@@ -1,0 +1,5 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p93tar03\p93tar03\bin\Release\p93tar03.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p93tar03\p93tar03\bin\Release\p93tar03.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p93tar03\p93tar03\bin\Release\p93tar03.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p93tar03\p93tar03\obj\Release\p93tar03.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 4 - מחלקת שירות\p93tar03\p93tar03\obj\Release\p93tar03.pdb

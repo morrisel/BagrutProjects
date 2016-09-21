@@ -1,0 +1,5 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p31tar29\p31tar29\bin\Debug\p31tar29.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p31tar29\p31tar29\bin\Debug\p31tar29.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p31tar29\p31tar29\bin\Debug\p31tar29.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p31tar29\p31tar29\obj\Debug\p31tar29.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p31tar29\p31tar29\obj\Debug\p31tar29.pdb

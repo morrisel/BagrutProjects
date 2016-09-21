@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p70SelectionSort\p70SelectionSort\bin\Debug\p70SelectionSort.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p70SelectionSort\p70SelectionSort\bin\Debug\p70SelectionSort.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p70SelectionSort\p70SelectionSort\bin\Debug\p70SelectionSort.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p70SelectionSort\p70SelectionSort\obj\Debug\p70SelectionSort.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p70SelectionSort\p70SelectionSort\obj\Debug\p70SelectionSort.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\p70SelectionSort\p70SelectionSort\obj\Debug\p70SelectionSort.pdb

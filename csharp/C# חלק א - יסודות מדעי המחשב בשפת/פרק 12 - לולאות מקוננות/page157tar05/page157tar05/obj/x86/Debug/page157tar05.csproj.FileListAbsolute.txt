@@ -1,0 +1,10 @@
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter12\For Loops\page157tar05\page157tar05\bin\Debug\page157tar05.exe
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter12\For Loops\page157tar05\page157tar05\bin\Debug\page157tar05.pdb
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter12\For Loops\page157tar05\page157tar05\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter12\For Loops\page157tar05\page157tar05\obj\x86\Debug\page157tar05.exe
+C:\CSharp_Programming_Code\FivePointsDeree\yesodot_helek_alef\Chapter12\For Loops\page157tar05\page157tar05\obj\x86\Debug\page157tar05.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page157tar05\page157tar05\obj\x86\Debug\page157tar05.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page157tar05\page157tar05\obj\x86\Debug\page157tar05.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page157tar05\page157tar05\bin\Debug\page157tar05.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page157tar05\page157tar05\bin\Debug\page157tar05.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page157tar05\page157tar05\obj\x86\Debug\ResolveAssemblyReference.cache

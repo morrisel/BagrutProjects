@@ -1,0 +1,1 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 3 - מיון - חיפוש - מיזוג\SortingAlgorithms\05_BubbleSort\bin\Debug\05_BubbleSort.exe.config

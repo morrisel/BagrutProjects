@@ -1,0 +1,5 @@
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\02_no-ReturnValue\page184tar27\page184tar27\bin\Debug\page184tar27.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\02_no-ReturnValue\page184tar27\page184tar27\bin\Debug\page184tar27.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\02_no-ReturnValue\page184tar27\page184tar27\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\02_no-ReturnValue\page184tar27\page184tar27\obj\x86\Debug\page184tar27.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter13 - Functions\02_no-ReturnValue\page184tar27\page184tar27\obj\x86\Debug\page184tar27.pdb

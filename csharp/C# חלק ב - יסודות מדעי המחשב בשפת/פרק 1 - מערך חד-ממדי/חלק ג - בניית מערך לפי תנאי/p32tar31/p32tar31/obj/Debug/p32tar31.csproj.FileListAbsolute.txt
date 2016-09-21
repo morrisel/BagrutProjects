@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p32tar31\p32tar31\bin\Debug\p32tar31.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p32tar31\p32tar31\bin\Debug\p32tar31.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p32tar31\p32tar31\bin\Debug\p32tar31.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p32tar31\p32tar31\obj\Debug\p32tar31.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p32tar31\p32tar31\obj\Debug\p32tar31.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p32tar31\p32tar31\obj\Debug\p32tar31.pdb

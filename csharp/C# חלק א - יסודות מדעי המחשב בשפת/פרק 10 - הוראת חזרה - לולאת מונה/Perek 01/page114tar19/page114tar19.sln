@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "page114tar19", "page114tar19\page114tar19.csproj", "{41FB3970-F1A8-4C62-951A-5CF58D3C952C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41FB3970-F1A8-4C62-951A-5CF58D3C952C}.Debug|x86.ActiveCfg = Debug|x86
+		{41FB3970-F1A8-4C62-951A-5CF58D3C952C}.Debug|x86.Build.0 = Debug|x86
+		{41FB3970-F1A8-4C62-951A-5CF58D3C952C}.Release|x86.ActiveCfg = Release|x86
+		{41FB3970-F1A8-4C62-951A-5CF58D3C952C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

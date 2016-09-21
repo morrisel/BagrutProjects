@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p15ex04\p15ex04\bin\Debug\p15ex04.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p15ex04\p15ex04\bin\Debug\p15ex04.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p15ex04\p15ex04\bin\Debug\p15ex04.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p15ex04\p15ex04\obj\Debug\p15ex04.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p15ex04\p15ex04\obj\Debug\p15ex04.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p15ex04\p15ex04\obj\Debug\p15ex04.pdb

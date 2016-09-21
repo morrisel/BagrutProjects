@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar03\p17tar03\bin\Debug\p17tar03.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar03\p17tar03\bin\Debug\p17tar03.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar03\p17tar03\bin\Debug\p17tar03.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar03\p17tar03\obj\Debug\p17tar03.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar03\p17tar03\obj\Debug\p17tar03.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p17tar03\p17tar03\obj\Debug\p17tar03.pdb

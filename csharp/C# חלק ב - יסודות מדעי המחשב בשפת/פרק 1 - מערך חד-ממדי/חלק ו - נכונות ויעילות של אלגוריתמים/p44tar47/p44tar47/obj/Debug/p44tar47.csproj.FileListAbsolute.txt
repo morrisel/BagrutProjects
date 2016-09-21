@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p44tar47\p44tar47\bin\Debug\p44tar47.exe.config
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p44tar47\p44tar47\bin\Debug\p44tar47.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p44tar47\p44tar47\bin\Debug\p44tar47.pdb
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p44tar47\p44tar47\obj\Debug\p44tar47.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p44tar47\p44tar47\obj\Debug\p44tar47.exe
+C:\Tutorials\Bagrut\Mabatl\YesodotB\Chapter01\p44tar47\p44tar47\obj\Debug\p44tar47.pdb

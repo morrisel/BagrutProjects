@@ -1,0 +1,5 @@
+C:\CSharp\Bagrut\YesodotA\Chapter10\Perek 04\page133tar63\page133tar63\bin\Debug\page133tar63.exe
+C:\CSharp\Bagrut\YesodotA\Chapter10\Perek 04\page133tar63\page133tar63\bin\Debug\page133tar63.pdb
+C:\CSharp\Bagrut\YesodotA\Chapter10\Perek 04\page133tar63\page133tar63\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\Bagrut\YesodotA\Chapter10\Perek 04\page133tar63\page133tar63\obj\x86\Debug\page133tar63.exe
+C:\CSharp\Bagrut\YesodotA\Chapter10\Perek 04\page133tar63\page133tar63\obj\x86\Debug\page133tar63.pdb

@@ -1,0 +1,6 @@
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p107AdditionalMethods\p107AdditionalMethods\bin\Debug\p107AdditionalMethods.exe.config
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p107AdditionalMethods\p107AdditionalMethods\obj\Debug\p107AdditionalMethods.csprojResolveAssemblyReference.cache
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p107AdditionalMethods\p107AdditionalMethods\bin\Debug\p107AdditionalMethods.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p107AdditionalMethods\p107AdditionalMethods\bin\Debug\p107AdditionalMethods.pdb
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p107AdditionalMethods\p107AdditionalMethods\obj\Debug\p107AdditionalMethods.exe
+C:\Tutorials\Bagrut\C# חלק ב - יסודות מדעי המחשב בשפת\פרק 5 - מחרוזות\p107AdditionalMethods\p107AdditionalMethods\obj\Debug\p107AdditionalMethods.pdb

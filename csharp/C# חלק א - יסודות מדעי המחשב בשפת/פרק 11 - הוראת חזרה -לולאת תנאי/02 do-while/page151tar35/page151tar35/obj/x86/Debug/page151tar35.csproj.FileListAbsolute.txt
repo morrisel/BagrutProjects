@@ -1,0 +1,5 @@
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter11\02 do-while\page151tar35\page151tar35\bin\Debug\page151tar35.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter11\02 do-while\page151tar35\page151tar35\bin\Debug\page151tar35.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter11\02 do-while\page151tar35\page151tar35\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter11\02 do-while\page151tar35\page151tar35\obj\x86\Debug\page151tar35.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter11\02 do-while\page151tar35\page151tar35\obj\x86\Debug\page151tar35.pdb

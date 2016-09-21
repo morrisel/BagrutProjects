@@ -1,0 +1,5 @@
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page160tar18\page160tar18\bin\Debug\page160tar18.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page160tar18\page160tar18\bin\Debug\page160tar18.pdb
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page160tar18\page160tar18\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page160tar18\page160tar18\obj\x86\Debug\page160tar18.exe
+C:\CSharp\Bagrut\Mabatl\YesodotA\Chapter12\For Loops\page160tar18\page160tar18\obj\x86\Debug\page160tar18.pdb
